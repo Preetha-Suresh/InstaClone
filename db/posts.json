@@ -1,0 +1,152 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "sunset_lover",
+      "profilePic": "src/assets/profile1.jpg",
+      "imageUrl": "src/assets/post1.jpeg",
+      "caption": "Chasing sunsets 🌇",
+      "likes": 120,
+      "comments": [
+        {
+          "id": 1,
+          "username": "sandy23",
+          "text": "Wow! Gorgeous view 🔥"
+        },
+        {
+          "id": 2,
+          "username": "rahul_dev",
+          "text": "Need to go there soon!"
+        }
+      ],
+      "timestamp": "2024-05-01T12:34:56Z"
+    },
+    {
+      "id": "2",
+      "username": "tech_guy",
+      "profilePic": "src/assets/profile2.jpg",
+      "imageUrl": "src/assets/post2.jpg",
+      "caption": "My new setup 🚀",
+      "likes": 89,
+      "comments": [
+        {
+          "id": 1,
+          "username": "geek_girl",
+          "text": "Clean af!"
+        }
+      ],
+      "timestamp": "2024-05-02T14:10:00Z"
+    },
+    {
+      "id": "3",
+      "username": "travelqueen",
+      "profilePic": "src/assets/profile3.jpg",
+      "imageUrl": "src/assets/post3.jpeg",
+      "caption": "Woke up to this view 😍🌄",
+      "likes": 210,
+      "comments": [
+        {
+          "id": 1,
+          "username": "adventurist",
+          "text": "Where is this place?!"
+        },
+        {
+          "id": 2,
+          "username": "explorer23",
+          "text": "Pure vibes ✨"
+        }
+      ],
+      "timestamp": "2024-05-03T09:00:00Z"
+    }
+  ],
+  "profile": [
+    {
+      "username": "sunset_lover",
+      "profilePic": "src/assets/profile1.jpg",
+      "id": "8e43"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "tech_guy",
+      "profilePic": "src/assets/profile2.jpg"
+    },
+    {
+      "id": "2",
+      "username": "travelqueen",
+      "profilePic": "src/assets/profile3.jpg"
+    },
+    {
+      "id": "3",
+      "username": "sun_love",
+      "profilePic": "src/assets/profile1.jpg"
+    },
+    {
+      "id": "4",
+      "username": "techy_mars",
+      "profilePic": "src/assets/profile2.jpg"
+    },
+    {
+      "id": "5",
+      "username": "traveller_rixey",
+      "profilePic": "src/assets/profile3.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "sunset_lover",
+      "profilePic": "src/assets/profile1.jpg",
+      "imageUrl": "/src/assets/story1.jpg",
+      "timestamp": "2024-05-01T12:34:56Z"
+    },
+    {
+      "id": "2",
+      "username": "tech_guy",
+      "profilePic": "src/assets/profile2.jpg",
+      "imageUrl": "/src/assets/story2.webp",
+      "timestamp": "2024-05-02T14:10:00Z"
+    },
+    {
+      "id": "3",
+      "username": "travelqueen",
+      "profilePic": "src/assets/profile3.jpg",
+      "imageUrl": "/src/assets/story3.webp",
+      "timestamp": "2024-05-03T09:00:00Z"
+    },
+    {
+      "id": "4",
+      "username": "sunset_lover",
+      "profilePic": "src/assets/profile1.jpg",
+      "imageUrl": "/src/assets/story1.jpg",
+      "timestamp": "2024-05-01T12:34:56Z"
+    },
+    {
+      "id": "5",
+      "username": "tech_guy",
+      "profilePic": "src/assets/profile2.jpg",
+      "imageUrl": "/src/assets/story2.webp",
+      "timestamp": "2024-05-02T14:10:00Z"
+    },
+    {
+      "id": "6",
+      "username": "travelqueen",
+      "profilePic": "src/assets/profile3.jpg",
+      "imageUrl": "/src/assets/story3.webp",
+      "timestamp": "2024-05-03T09:00:00Z"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "username": "tech_guy",
+      "profilePic": "src/assets/profile2.jpg"
+    },
+    {
+      "id": "1",
+      "username": "tech_guy",
+      "profilePic": "src/assets/profile2.jpg"
+    }
+  ]
+}
